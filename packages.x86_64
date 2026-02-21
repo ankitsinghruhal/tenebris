@@ -126,3 +126,9 @@ xdg-utils
 xfsprogs
 xl2tpd
 zsh
+
+gnome-shell
+gdm
+gnome-control-center
+gnome-console
+nautilus
