@@ -1,0 +1,6 @@
+NAME="Tenebris OS"
+PRETTY_NAME="Tenebris OS"
+ID=tenebris
+BUILD_ID=0.1.0
+HOME_URL="https://www.github.com/ankitsinghruhal/tenebris"
+LOGO=start-here
